@@ -13,7 +13,7 @@ A C# WPF application that allows you to manage multiple wallets in a single inte
 
 Below is a preview of the Wallet Manager's interface:
 
-![Wallet Manager GUI](manager_gui.png)
+![Wallet Manager GUI](WalletManager/manager_gui.png)
 
 ## Installation
 
