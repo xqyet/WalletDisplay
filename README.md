@@ -59,5 +59,7 @@ Below is a preview of the Wallet Manager's interface:
 
 3. **View and Manage Wallets**:
    - The GUI will display each wallet’s address, balance, and private key. Use the "Show Private Keys" checkbox to toggle the visibility of private keys.
+  
+   For more projects and information, visit my website: [xqyet.dev](https://xqyet.dev)
 
   
