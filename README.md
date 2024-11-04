@@ -1,6 +1,6 @@
 # Bulk Wallet Manager
 
-A C# WPF application that allows you to manage multiple wallets in a single interface. You can load wallet addresses and private keys from a JSON file, view each wallet’s BNB balance, and toggle visibility of private keys. The application is designed with a dark theme and provides basic functionalities for bulk wallet management.
+A C# WPF application that allows you to manage multiple wallets in a single interface. You can load wallet addresses and private keys from a JSON file, view each wallet’s balance, and toggle visibility of private keys. Provides basic functionalities for bulk wallet management.
 
 
 ## Features
