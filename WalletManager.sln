@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletManager", "WalletManager\WalletManager.csproj", "{94FFD1EA-A6D5-44C4-9199-57F9FB2C382A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F0DD7D8F-05E4-492E-AE0D-D4EC8B770493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94FFD1EA-A6D5-44C4-9199-57F9FB2C382A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FFD1EA-A6D5-44C4-9199-57F9FB2C382A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FFD1EA-A6D5-44C4-9199-57F9FB2C382A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FFD1EA-A6D5-44C4-9199-57F9FB2C382A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {972FD9A5-0AD1-4D0E-A943-1719CA7FA633}
+	EndGlobalSection
+EndGlobal
