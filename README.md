@@ -1,6 +1,6 @@
-# Bulk Wallet Manager
+# Wallet Display Test
 
-A C# WPF application that allows you to manage multiple wallets in a single interface. You can load wallet addresses and private keys from a JSON file, view each wallet’s balance, and toggle visibility of private keys. Provides basic functionalities for bulk wallet management.
+You can load wallet addresses and private keys from a JSON file, view each wallet’s balance, and toggle visibility of private keys. Provides basic functionalities for bulk wallet management.
 
 
 ## Features
